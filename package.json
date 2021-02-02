@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/1w2w3y/qrcode-generator-ts.git"
+    "url": "https://github.com/jeremy-gill/qrcode-generator-ts.git"
   },
   "keywords": [
     "qrcode",
@@ -27,7 +27,7 @@
     "ts-loader": "^1.2.1",
     "typescript": "^2.0.10",
     "webpack": "^5.4.0",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {}
 }
